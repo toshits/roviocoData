@@ -3,14 +3,14 @@
     "productId": 1,
     "title": "Magnetic Eyelashes with Eyeliner and Tweezer",
     "body_html": "<p style='text-align:center; margin:20px 0px;'><strong>HIGH-QUALITY • VEGAN FIBER • WATERPROOF</strong></p> <div style='text-align:center; margin-bottom:20px'>The Magnetic Lashes Kit is all you need for your daily routine! This reusable magnetic lash kit utilizes all the natural, versatile vibes you need for your day-to-day plans. Featuring our top-selling, lash for an effortlessly fresh everyday look. As the cherry on top, our kit comes with a mini Soo Future! Magnetic Felt Tip Liner and a Tweezer , so all of your on-the-go applications are made quick and easy for whatever comes your way.</div> <div style='display: flex; flex-direction: column; align-items: center;'> <ul style='display:flex; flex-direction:column; gap:5px;'> <li> High-Quality Vegan Synthetic Fiber </li> <li> Reusable up to 60 times with proper care </li> <li> Waterproof Liquid Eyeliner </li> </ul></div>",
-    "created_at": "2022-10-17T19:28:29.000Z",
+    "created_at": 1666034891,
     "collection": "lashes",
     "path": "/shop/magnetic-eyelashes",
     "status": 1,
     "tags": "Lashes",
     "thumbnailTag": null,
-    "price": 29.989999771118164,
-    "originalPrice": 44.95000076293945,
+    "price": 29.99,
+    "originalPrice": 44.95,
     "options": [
       {
         "optionId": 1,
@@ -69,5 +69,32 @@
       "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/Magnetic-Eyelashes-with-Eyeliner-and-Tweezer/8.png"
     ],
     "image": "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/Magnetic-Eyelashes-with-Eyeliner-and-Tweezer/1.png"
+  },
+  {
+    "productId": 2,
+    "title": "IPL Laser Hair Removal Handset",
+    "body_html": "<p style='text-align:center; margin:20px 0px;'><strong>HIGH-QUALITY • VEGAN FIBER • WATERPROOF</strong></p> <div style='text-align:center; margin-bottom:20px'>The Magnetic Lashes Kit is all you need for your daily routine! This reusable magnetic lash kit utilizes all the natural, versatile vibes you need for your day-to-day plans. Featuring our top-selling, lash for an effortlessly fresh everyday look. As the cherry on top, our kit comes with a mini Soo Future! Magnetic Felt Tip Liner and a Tweezer , so all of your on-the-go applications are made quick and easy for whatever comes your way.</div> <div style='display: flex; flex-direction: column; align-items: center;'> <ul style='display:flex; flex-direction:column; gap:5px;'> <li> High-Quality Vegan Synthetic Fiber </li> <li> Reusable up to 60 times with proper care </li> <li> Waterproof Liquid Eyeliner </li> </ul></div>",
+    "created_at": 1666210140,
+    "collection": "skincare",
+    "path": "/shop/laser-hair-removal-handset",
+    "status": 1,
+    "tags": "ipl",
+    "thumbnailTag": null,
+    "price": 79.95,
+    "originalPrice": 139.95,
+    "options": [],
+    "variants": [],
+    "images": [
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/1.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/2.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/3.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/4.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/5.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/6.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/7.png",
+      "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/8.png"
+    ],
+    "image": "https://raw.githubusercontent.com/toshits/roviocoData/master/ProductImages/IPL-Laser-Hair-Removal-Handset/2.png"   
   }
+  
 ]
